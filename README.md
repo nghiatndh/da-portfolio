@@ -7,7 +7,7 @@
 ## About:
 ## Professional Experience:
 ## Project:
-### [Electronics & Clothes Finance Dashboard] (https://github.com/nghiatndh/Electronics-Clothes-Shop-Finance-Dashboard/blob/master/Electronics%20%26%20Clothes%20Shop%20Finance%20Dashboard.pbix)
+### [Electronics & Clothes Finance Dashboard](https://github.com/nghiatndh/Electronics-Clothes-Shop-Finance-Dashboard/blob/master/Electronics%20%26%20Clothes%20Shop%20Finance%20Dashboard.pbix)
 ### [Supermarket Sales Dashboard] ()
 ### [TV Shows Analysis] ()
 ### [Sales and Shipment Dashboard] ()
