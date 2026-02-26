@@ -5,12 +5,13 @@
 + LinkedIn: https://www.linkedin.com/in/nghia-tndh727/
 + Github: https://github.com/nghiatndh
 ## About:
+
+I am a recent Information System major graduate with a strong foundation in data analytics and machine learning, seeking an opportunity to begin my career as a Data Analyst. I have hands-on experience working with real-world datasets to build predictive models, perform cross-validation, and generate actionable insights using Python, SQL, and data visualization tools.
+
+Through projects in healthcare prediction, financial risk assessment, and pricing analytics, I have developed strong analytical thinking, problem-solving skills, and attention to data quality. I am eager to apply my technical skills in a professional environment while continuing to grow as a data-driven decision-maker.
 ## Professional Experience:
 ## Projects:
-### [Electronics & Clothes Finance Dashboard](https://github.com/nghiatndh/Electronics-Clothes-Shop-Finance-Dashboard/blob/master/Electronics%20%26%20Clothes%20Shop%20Finance%20Dashboard.pbix)
-### [Supermarket Sales Dashboard]()
-### [TV Shows Analysis]()
-### [Sales and Shipment Dashboard]()
+
 ### [Airbnb Price Prediction with What-If Scenario Analysis](https://github.com/nghiatndh/Airbnb-Price-Prediction-with-What-If-Scenario-Analysis/blob/master/What_if_Analysis_Cross_Validation.ipynb)
 
 **Goal**: The objective of this project was to develop a robust machine learning model capable of accurately predicting Airbnb listing prices based on property and host features. In addition to predictive modeling, the project aimed to implement a what-if scenario analysis framework to evaluate how changes in key listing attributes influence pricing outcomes. This approach supports data-driven pricing strategies and decision-making for short-term rental stakeholders.
@@ -68,7 +69,11 @@ The solution not only generates strong predictive capability but also illustrate
 + Demonstrated robust accuracy and balanced evaluation metrics, confirming consistent model behavior.
 
 + Feature analysis provided actionable insights into the most influential applicant attributes affecting credit decisions.
-  
+
+### [Electronics & Clothes Finance Dashboard](https://github.com/nghiatndh/Electronics-Clothes-Shop-Finance-Dashboard/blob/master/Electronics%20%26%20Clothes%20Shop%20Finance%20Dashboard.pbix)
+### [Supermarket Sales Dashboard](https://github.com/nghiatndh/Supermarket-Sales-Dashboard)
+### [TV Shows Analysis](https://github.com/nghiatndh/TV-Shows-Analysis)
+### [Sales and Shipment Dashboard](https://github.com/nghiatndh/Sales-and-Shipment-Dashboard)
   
 ## Education:
 + Bachelor of Information Technology
